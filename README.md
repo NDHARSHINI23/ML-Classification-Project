@@ -128,7 +128,6 @@ ML-Classification-Project/
 ├── fig1_eda.png
 ├── fig2_model_eval.png
 ├── fig3_learning_curves.png
-├── README.md
 └── requirements.txt
 ```
 
@@ -177,6 +176,4 @@ The Random Forest model provided the best overall performance with strong accura
 
 ---
 
-## Author
 
-Developed as part of a Machine Learning Classification Project.
